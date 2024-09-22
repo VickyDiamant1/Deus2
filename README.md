@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ### 2. Database Setup
 
 Run the following commands to set up your database:
-
+(make sure you are inside the project articlesdatabase in your path)
 ```bash
 python manage.py makemigrations
 python manage.py migrate
